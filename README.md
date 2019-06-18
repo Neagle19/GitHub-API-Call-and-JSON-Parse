@@ -1,2 +1,2 @@
 # GitHub-API-Call-and-JSON-Parse
-Simple JSON Exercise - Calls the GitHub API, asks for a GitHub username, and returns the name and ID of that user.
+Simple JSON Exercise - Asks the user for a GitHub username, calls the GitHub API, and returns the name and ID of that user.
